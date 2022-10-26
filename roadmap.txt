@@ -1,0 +1,3 @@
+Development:
+- create Dictionaries for arabian,latin,chinese,hindi with a loop converting all words in prime (DB? file?)
+- A.I. machine learning to find the more related answer to the question if multiple answers.

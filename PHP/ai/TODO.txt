@@ -1,0 +1,4 @@
+/****************
+A.I. to interpret as best as possible the answer needed
+between YES,NO,DATE,AGE,COMMON NAME OR PROPER NAME.
+****************/

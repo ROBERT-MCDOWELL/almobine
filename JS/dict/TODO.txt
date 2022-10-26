@@ -1,0 +1,5 @@
+/****************
+Dictionnaries for each major languages.
+- Convert all words of a language Dictionnary to its total primes with and without ranks.
+ad DB or File must be used with JSON as structure.
+****************/
