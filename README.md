@@ -1,2 +1,2 @@
 # almobine
-Science of the law of GOD
+Science linking prime numbers and the law of Creation
