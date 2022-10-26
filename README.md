@@ -1,2 +1,2 @@
 # almobine
-Science linking prime numbers and the law of Creation intiated by Mustapha Malaainine.
+Science demonstrating prime numbers and the law of Creation intiated by Mustapha Malaainine.
